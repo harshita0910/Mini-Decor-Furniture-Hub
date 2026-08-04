@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://harshita0910.github.io/Mini-Decor-Furniture-Hub/sitemap.xml
